@@ -45,9 +45,3 @@ All notebooks are in `.ipynb` format. You can run them locally using:
 
 ---
 
-## 📬 Contact
-If you'd like to connect or collaborate:
-- GitHub: [Sara6622](https://github.com/Sara6622)
-- Email: sm8666417@gmail.com
-
----
